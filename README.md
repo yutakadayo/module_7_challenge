@@ -6,7 +6,7 @@ This project is created to demonstrate SQL handlings and visualization of the pr
 
 # Accessible link for this repo
 
-In order to view the notebook in live, you can access [Binder.org page](https://mybinder.org/v2/gh/yutakadayo/module_7_challenge.git/HEAD) and select `etf_analyzer.ipynb` then run each sell with `Shift + Enter` or **Play Button** to access the interactive visualization.
+In order to view the notebook in live, you can access [Binder.org page](https://hub.gke2.mybinder.org/user/yutakadayo-module_7_challenge-lwexj1di/doc/tree/etf_analyzer.ipynb) to access the interactive visualization.
 
 Here are some example of the visualization
 
